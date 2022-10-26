@@ -13,6 +13,7 @@ public class Binary {
         String formatBinary = String.format("%08d", Integer.parseInt(rawBinary));
         System.out.println("Binary value: " + formatBinary);
         s.close();
+        
     }
 }
 /*
