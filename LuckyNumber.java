@@ -36,6 +36,7 @@ public class LuckyNumber {
         }
         System.out.println(("No.of Lucky Numbers: " + count));
         s.close();
+        
     }
 
 }
