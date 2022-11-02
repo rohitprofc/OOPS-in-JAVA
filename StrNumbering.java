@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class StrNumbering {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         System.out.print("Enter no.of characters: ");
         int n = sc.nextInt();
         String tem = sc.nextLine();
@@ -16,14 +15,11 @@ public class StrNumbering {
                 char c2 = str.charAt(j);
                 if (c1 < c2)
                     c += 1;
-
             }
             System.out.print(c + " ");
         }
         sc.close();
-
     }
-
 }
 /*
  * Output:-
