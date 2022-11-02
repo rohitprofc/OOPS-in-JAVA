@@ -1,7 +1,5 @@
 import java.util.*;
-
-public class SGPA {
-
+public class SGPA1 {
     String[] subjects = { "Graphics", "PPS", "JAVA", "Chemistry", "English", "Technical Skills", "Data Structures", };
     double[] credits = { 2, 4, 3, 3, 2, 1.5, 4 };
 
@@ -19,7 +17,7 @@ public class SGPA {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] points = new int[7];
-        SGPA s = new SGPA();
+        SGPA1 s = new SGPA1();
         System.out.println("Enter points for each subject: ");
         for (int i = 0; i < 7; i++) {
             System.out.print(s.subjects[i] + ": ");
