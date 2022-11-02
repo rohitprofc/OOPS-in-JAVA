@@ -27,5 +27,6 @@ public class SGPA {
         }
         double sgpa = s.calcSGPA(points);
         System.out.printf("SGPA - %.2f", sgpa);
+        sc.close();
     }
 }
