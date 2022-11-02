@@ -18,6 +18,7 @@ public class StrNumbering {
             }
             System.out.print(c + " ");
         }
+        System.out.print(tem);
         sc.close();
     }
 }
