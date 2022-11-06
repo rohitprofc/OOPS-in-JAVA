@@ -23,8 +23,12 @@ public class StrNumbering {
     }
 }
 /*
- * Output:-
+ * Output 1:-
  * Enter no.of characters: 3
  * Enter String: abc
  * 2 1 0
+ * Output 2:-
+ * Enter no.of characters: 5
+ * Enter String: aaabb
+ * 2 2 2 0 0
  */

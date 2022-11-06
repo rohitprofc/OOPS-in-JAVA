@@ -16,7 +16,10 @@ public class Binary {
     }
 }
 /*
- * Output:-
+ * Output 1:-
  * Enter decimal number: 51
  * Binary value: 00110011
+ * Output 1:-
+ * Enter decimal number: 45
+ * Binary value: 00101101
  */

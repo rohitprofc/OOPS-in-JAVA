@@ -1,4 +1,5 @@
 import java.util.*;
+
 public class SGPA1 {
     String[] subjects = { "Graphics", "PPS", "JAVA", "Chemistry", "English", "Technical Skills", "Data Structures", };
     double[] credits = { 2, 4, 3, 3, 2, 1.5, 4 };
@@ -28,3 +29,15 @@ public class SGPA1 {
         sc.close();
     }
 }
+/*
+ * Output:-
+ * Enter points for each subject:
+ * Graphics: 10
+ * PPS: 10
+ * JAVA: 10
+ * Chemistry: 9
+ * English: 9
+ * Technical Skills: 10
+ * Data Structures: 10
+ * SGPA - 9.74
+ */
