@@ -1,7 +1,7 @@
-package Exercise_5.live;
+package Exer_5.live;
 
-import Exercise_5.music.string.Veena;
-import Exercise_5.music.wind.Saxophone;
+import Exer_5.music.string.Veena;
+import Exer_5.music.wind.Saxophone;
 
 public class Test
 {

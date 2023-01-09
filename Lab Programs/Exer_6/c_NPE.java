@@ -1,4 +1,4 @@
-package Exercise_6;
+package Exer_6;
 
 public class c_NPE {
     public static void main(String[] args) {

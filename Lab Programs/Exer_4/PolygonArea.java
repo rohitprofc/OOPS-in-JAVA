@@ -1,4 +1,4 @@
-package Exercise_4;
+package Exer_4;
 
 import java.util.*;
 

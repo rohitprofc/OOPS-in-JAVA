@@ -1,4 +1,4 @@
-package Exercise_3;
+package Exer_3;
 
 public class InstanceVar {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Exer_2;
+
 import java.util.*;
 
 public class SGPA1 {

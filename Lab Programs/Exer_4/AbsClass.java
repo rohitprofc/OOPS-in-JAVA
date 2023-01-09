@@ -1,4 +1,4 @@
-package Exercise_4;
+package Exer_4;
 
 public class AbsClass {
     public static void main(String[] args) {

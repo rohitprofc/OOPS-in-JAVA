@@ -1,4 +1,4 @@
-package Exercise_5.music;
+package Exer_5.music;
 
 public interface Playable {
     public void play();

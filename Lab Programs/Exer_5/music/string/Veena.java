@@ -1,5 +1,5 @@
-package Exercise_5.music.string;
-import Exercise_5.music.Playable;
+package Exer_5.music.string;
+import Exer_5.music.Playable;
 
 public class Veena implements Playable
 {

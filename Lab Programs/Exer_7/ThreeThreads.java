@@ -1,4 +1,4 @@
-package Exercise_7;
+package Exer_7;
 
 public class ThreeThreads {
 

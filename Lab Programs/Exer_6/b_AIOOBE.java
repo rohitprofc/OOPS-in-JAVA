@@ -1,4 +1,4 @@
-package Exercise_6;
+package Exer_6;
 
 public class b_AIOOBE {
     public static void main(String[] args) {

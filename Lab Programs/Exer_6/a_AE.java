@@ -1,4 +1,4 @@
-package Exercise_6;
+package Exer_6;
 
 public class a_AE {
 
