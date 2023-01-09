@@ -1,6 +1,6 @@
 package Exercise_6;
 
-public class a {
+public class a_AE {
 
     public static void main(String[] args) {
         Integer a = Integer.parseInt(args[0]);

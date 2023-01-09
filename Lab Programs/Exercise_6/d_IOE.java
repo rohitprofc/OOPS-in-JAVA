@@ -2,7 +2,7 @@ package Exercise_6;
 
 import java.util.*;
 
-public class d {
+public class d_IOE {
     public static void main(String[] args)
     throws Exception
     {

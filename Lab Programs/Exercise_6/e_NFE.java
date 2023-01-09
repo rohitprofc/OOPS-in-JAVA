@@ -1,6 +1,6 @@
 package Exercise_6;
 
-public class e {
+public class e_NFE {
     public static void main(String[] args) {
         String s = "Rohit";
         try {

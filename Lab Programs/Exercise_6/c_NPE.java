@@ -1,6 +1,6 @@
 package Exercise_6;
 
-public class b {
+public class c_NPE {
     public static void main(String[] args) {
         String name = null;
         try {
